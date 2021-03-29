@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Week 1](/Week1)
-  - [Day 1](/Day1)
+  - [Day 1](/Week1/Day1)
 
 # This is an H1 header (largest)
 
